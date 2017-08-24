@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Megamark Controller\Core\Simulator.cs">
+    <Files>
+      <File FileName="Assets\Megamark Controller\Core\Megamark.cs" Line="233" Column="25" />
+      <File FileName="Assets\Megamark Controller\Core\Simulator.cs" Line="22" Column="30" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\Shoulders.cs" Line="1" Column="1" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\Elbows.cs" Line="1" Column="1" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\Grippers.cs" Line="23" Column="1" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\Wheels.cs" Line="40" Column="4" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\RobotMotionTest.cs" Line="16" Column="32" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\Lasers.cs" Line="35" Column="3" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\RobotExplorerTest.cs" Line="19" Column="38" />
+      <File FileName="Assets\Megamark Controller\Demo Scripts\RobotControllerTest.cs" Line="41" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
